@@ -1,5 +1,8 @@
 _repo: Versuch-uber-die-physische-Erziehung-der-Kinder_53483
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53483-h/images/cover.jpg
 creator:
   author:
     agent_name: Wurzer, Ferdinand
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '47395'
     url: http://www.gutenberg.org/2009/agents/47395
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53483#Versuch-uber-die-physische-Erziehung-der-Kinder
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2016-11-09'
 gutenberg_type: Text
