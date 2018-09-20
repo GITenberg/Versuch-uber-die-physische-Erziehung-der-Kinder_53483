@@ -1,0 +1,26 @@
+_repo: Versuch-uber-die-physische-Erziehung-der-Kinder_53483
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wurzer, Ferdinand
+    birthdate: 1765
+    deathdate: 1844
+    gutenberg_agent_id: '47395'
+    url: http://www.gutenberg.org/2009/agents/47395
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2016-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53483'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Health and hygiene'
+- !lcc 'RG'
+- !lcsh 'Child rearing'
+- GITenberg
+title: Versuch über die physische Erziehung der Kinder
+url: http://www.gutenberg.org/ebooks/53483
